@@ -6,4 +6,4 @@ No conjunto de dados trabalhados, temos dados históricos de diferentes causas d
 
 ####Análises e gráficos:
 
-#####-> [Mortes por Ano](../proj_mod_III_cause_of_death/analise_mortes_por_ano/analise.md)
+#####-> [Mortes por Ano](analise_mortes_por_ano/analise.md)

@@ -12,6 +12,6 @@ Para a criação desse gráfico, foram utilizados dados que mostravam a quantida
 
 A partir dos dados analisados no gráfico, é possível perceber o considerável aumento de mortes entre 1990 e 2019. E, ainda mais recente, o enorme aumento diante dos anos de 2015 e 2019.
 
-Para ver a programação do gráfico💻 [clique aqui](../analise_mortes_por_ano/programacao_para_analise.ipynb)
+Para ver a programação do gráfico💻 [clique aqui](programacao_para_analise.ipynb)
 
 Para ver outras análises📈 [clique aqui](https://github.com/Riuk2252/proj_mod_III_cause_of_death)

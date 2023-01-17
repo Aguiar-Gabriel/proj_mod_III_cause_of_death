@@ -14,4 +14,4 @@ A partir dos dados analisados no gráfico, é possível perceber o considerável
 
 Para ver a programação do gráfico💻 [clique aqui](../analise_mortes_por_ano/programacao_para_analise.ipynb)
 
-Para ver outras análises📈 [clique aqui](../README.md/)
+Para ver outras análises📈 [clique aqui](https://github.com/Riuk2252/proj_mod_III_cause_of_death)

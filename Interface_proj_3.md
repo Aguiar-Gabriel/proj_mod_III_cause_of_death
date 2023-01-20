@@ -14,11 +14,11 @@ Fonte: <https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around
 - [Países X Doenças](/paginas/paises_doencas.md)
 
 ### Notebooks
-- [Mortes por ano](/fontes/programacao_para_analise.ipynb)
-- [Países x Doenças](/fontes/paises_doencas.ipynb)
-- [Campanha consumo excessivo álcool](/fontes/alcohol_campain.ipynb)
-- [Mortes doenças contagiosas](/fontes/deaths_contagius.ipynb)
-- [Doenças por idade](/fontes/Trabalho_Idade_doencas.ipynb)
+- [Mortes por ano](/programacao_para_analise.ipynb)
+- [Países x Doenças](/paises_doencas.ipynb)
+- [Campanha consumo excessivo álcool](/alcohol_campain.ipynb)
+- [Mortes doenças contagiosas](/deaths_contagius.ipynb)
+- [Doenças por idade](/Trabalho_Idade_doencas.ipynb)
 
 
 ### Gráficos

@@ -10,8 +10,8 @@ Fonte: <https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around
 ![Desenho solucao](/images/mortes.png)
 
 ### Análises
-- [Mortes por Ano](/analises_mortes_por_ano/mortes_ano.md)
-- [Países X Doenças](/Paises_X_Doencas/paises_doencas.md)
+- [Mortes por Ano](/analises_mortes_por_ano/analise.md)
+- [Países X Doenças](/Paises_X_Doencas/paises_X_doencas.md)
 
 ### Notebooks
 - [Mortes por ano](/programacao_para_analise.ipynb)

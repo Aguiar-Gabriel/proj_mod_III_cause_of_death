@@ -10,11 +10,11 @@ Fonte: <https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around
 ![Desenho solucao](/images/mortes.png)
 
 ### Análises
-- [Mortes por Ano](/analises_mortes_por_ano/analise.md)
+- [Mortes por Ano](/analise_mortes_por_ano/analise.md/)
 - [Países X Doenças](/Paises_X_Doencas/paises_X_doencas.md)
 
 ### Notebooks
-- [Mortes por ano](/programacao_para_analise.ipynb)
+- [Mortes por ano](/analise_mortes_por_ano/programacao_para_analise.ipynb)
 - [Países x Doenças](/Paises_X_Doencas/paises_doencas.ipynb)
 - [Campanha consumo excessivo álcool](/alcohol_campain.ipynb)
 - [Mortes doenças contagiosas](/deaths_contagius.ipynb)

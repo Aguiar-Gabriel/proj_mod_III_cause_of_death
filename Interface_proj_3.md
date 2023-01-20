@@ -18,7 +18,7 @@ Fonte: <https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around
 - [Países x Doenças](/fontes/paises_doencas.ipynb)
 - [Campanha consumo excessivo álcool](/fontes/alcohol_campain.ipynb)
 - [Mortes doenças contagiosas](/fontes/deaths_contagius.ipynb)
-- [Doenças por idade](/fontes/Mortes Acumuladas e Principal Morte por ano/Trabalho_Idade_doencas.ipynb)
+- [Doenças por idade](/fontes/Trabalho_Idade_doencas.ipynb)
 
 
 ### Gráficos
